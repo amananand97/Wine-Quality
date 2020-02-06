@@ -1,4 +1,4 @@
-# Wine
+# Wine Quality
 
 ### Step 1 : import all the following from the list
 
