@@ -1,5 +1,7 @@
 # Wine Quality
 
+Developed Wine Quality prediction model using two distinct Linear Regression models. Implemented data preprocessing, feature engineering, and leveraged techniques like PCA for dimensionality reduction. Evaluated model performance using Root Mean Squared Error (RMSE) achieving an RMSE score of 0.199. Demonstrated expertise in regression modelling and data analysis.
+
 ### Step 1 : import all the following from the list
 
 		- import pandas
